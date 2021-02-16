@@ -1,0 +1,44 @@
+Welcome to your Adventure.  You have found yourself trapped inside a magical
+realm.  Using options presented before you, you will need to navigate through
+this realm and pick up items to aid in your escape.
+
+Be careful though, danger awaits you at every turn.  You have 100 health points
+until you die and return to the starting point.  If this happens three times,
+then you fail your escape.
+
+There are 8 different actions that you can take.  These are "describe",
+"directions","inventory","stats","actions","help","clear", and "quit".
+You may type these words or their synonyms and press enter to execute
+the option.  Furthermore, note that these commands are case insensitive
+and the program will only read the first five letters (i.e. Inven will 
+be read as inventory). 
+
+The first option "Describe" will describe the current environment that you are
+in. Regardless, everytime you enter a new room the description will be shown.
+But, if you need a refresher this is here for you. "Show" or "Tell" will also
+work.
+
+The second option "Directions" will print out the possible directions that
+you can go based on your current position in the game.
+
+The third option "Inventory" or "items" will print out the items in your inventory.
+Note that you can only hold three items at any given time.
+
+The fourth option "Stats" or "health" will print out your health and lives.
+
+The fifth option "Actions" will show you the possible actions in the game
+that you may take.  These options are go, grab, drop, use, examine, open,
+and close.  For each of the words you must type one more word after it.
+This may be "grab knife" or "go south".  You will type this after the prompt
+that looks like this, ">> ". If you accidentally type 1 word and press enter,
+just type in the next word and press enter again.
+
+The sixth option "Help" will show you this text.
+
+The seventh option "Clear" will clear the entire sceen and reprint the
+description of where you are.
+
+The last option "Quit" will allow you to exit the game.  It will then
+ask you to name the game so that you can retrieve the saved game later.
+
+Good luck and Godspeed.

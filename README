@@ -1,0 +1,14 @@
+compile and run the file with ./run if on linux or mac and you have
+a GNU g++ compiler.  If on windows and have a GNU g++ compiler look
+at run file and see compilation instruction.
+
+This program is run through Adventure.cpp as the main file.
+The player's actions in any given location in the game are determined
+by the logic.cpp file which Game.cpp calls.  Game.h is the main class
+that controls the flow of the game.  Furthermore there is a class Player.h
+in which holds a pointer to the players inventory and control the stats of
+the player.  The Map.h contains a graph data structure that connects each
+of the locations called Rooms in the Map class.  
+
+The fastest solution to the game can be found in the file SOLUTION, but only
+a fool would look at the SOLUTION page instead of enjoying the game.

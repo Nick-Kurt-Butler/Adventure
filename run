@@ -1,0 +1,2 @@
+[ -x ./Adventure ] || g++ Adventure.cpp Game.cpp Inventory.cpp Logic.cpp Map.cpp Player.cpp -o Adventure
+./Adventure

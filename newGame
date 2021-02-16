@@ -1,0 +1,13 @@
+health,100
+lives,3
+inventory
+location,outside
+outside,0,shovel
+cave,0
+pit,0
+tunnel,0
+spring,0
+forest,0
+castle,0
+kitchen,0,knife
+library,0,lantern

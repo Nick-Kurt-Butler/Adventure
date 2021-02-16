@@ -1,0 +1,66 @@
+>> grab shovel
+# go to the forest
+>> go east
+# wander three times and get prybar
+>> go east
+>> go east
+>> go east
+>> grab prybar
+# get axe using prybar
+>> go up
+>> use prybar
+>> drop prybar
+>> grab axe
+# get latern
+>> go north
+>> go left
+# go to pit
+>> go back
+>> go outside
+>> go south
+>> go down
+# dig a hole
+>> use shovel
+>> drop shovel
+# see message... "TO STAY HERE FOREVER"
+>> go up
+>> examine wall
+# get knife
+>> go outside
+>> go north
+>> go right
+>> get knife
+# get rope
+>> go back
+>> go outside
+>> go south
+>> use knife
+>> grab rope
+# get key (p.s. always fight goblin with axe)
+>> go west
+>> go west
+>> examine gyser
+>> TO STAY HERE FOREVER
+>> use rope
+>> drop rope
+>> grab key
+# drop key off in cave
+>> go east
+>> go east
+>> drop key
+# get rope
+>> go west
+>> go west
+>> grab rope
+# go to pit with key
+>> go east
+>> go east
+>> drop rope
+>> get key
+>> go down
+# get gem
+>> use key
+>> open chest
+>> drop key
+>> grab gem
+# end of game
